@@ -27,4 +27,4 @@
   <a href = "eduardoteles.rib@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eduardo-ribeiro-teles-75a76b27b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-<a href="[https://www.linkedin.com/in/eduardo-ribeiro-teles-75a76b27b/](https://www.flamengo.com.br/)" target="_blank"><img align="center" alt="FLAMENGO" height="24" width="23" src="https://fla-bucket-s3-us.s3.amazonaws.com/public/arquivos/transparencia/94/158723694303.png"/></a>
+<a href="https://www.flamengo.com.br/" target="_blank"><img align="center" alt="FLAMENGO" height="24" width="23" src="https://fla-bucket-s3-us.s3.amazonaws.com/public/arquivos/transparencia/94/158723694303.png"/></a>

@@ -23,7 +23,7 @@
 #### 🥧◽[ CONTATOS EXTRAS: ]
 <P>Algumas das minhas redes sociais.
 <div> 
-  <a href=" https://instagram.com/eduardo_mjcrf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/eduardo_mjcrf?igshid=NTc4MTIwNjQ2YQ=="><img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "eduardoteles.rib@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eduardo-ribeiro-teles-75a76b27b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>

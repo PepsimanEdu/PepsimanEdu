@@ -1,6 +1,6 @@
 # Opa meu nobre, eu sou Eduardo Teles 🤙
 #### 🍣◽[ PEQUENA BIOGRAFIA: ]
-<p> Sou estudante de infoemática para web e amante da técnologia.<br/> Sou fã de games, artes, programação para web, edição de<br/> imagem/vídeo, cultura pop entre outras coisas.
+<p> Sou estudante de informática para web e amante da técnologia.<br/> Sou fã de games, artes, programação para web, edição de<br/> imagem/vídeo, cultura pop entre outras coisas.
 
 - cursando ensino médio técnico
 - tentando virar programador

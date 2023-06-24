@@ -6,8 +6,8 @@
 - tentando virar programador
 
 <div>
-  <img align="center" height="120em" src="https://github-readme-stats.vercel.app/api?username=PepsimanEdu&show_icons=true&theme=merko&count_private=true"/><br>
-  <img align="center" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PepsimanEdu&layout=compact&lang_count=16&theme=merko"/>
+  <img align="center" height="148em" src="https://github-readme-stats.vercel.app/api?username=PepsimanEdu&show_icons=true&theme=merko&count_private=true"/><br>
+  <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PepsimanEdu&layout=compact&lang_count=16&theme=merko"/>
 </div>
 
 #### ☕◽[ PARADAS QUE EU MANJO: ]

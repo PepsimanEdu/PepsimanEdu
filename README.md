@@ -6,7 +6,6 @@
 - tentando virar programador
 
 ![Edu GitHub Stats](https://github-readme-stats.vercel.app/api?username=PepsimanEdu&show_icons=true&theme=merko&count_private=true)
-![Linguagens] (https://github-readme-stats.vercel.app/api/top-langs/?username=PepsimanEdu&layout=compact&lang_count=16&theme=dark).
 
 #### ☕◽[ PARADAS QUE EU MANJO: ]
 <P>Essas são algumas das linguagens que quem vos fala usa <br/> com certa frequência em diversos projetos.

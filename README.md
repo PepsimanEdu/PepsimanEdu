@@ -5,7 +5,7 @@
 - cursando ensino médio técnico
 - tentando virar programador
 
-![Edu GitHub Stats](https://github-readme-stats.vercel.app/api?username=PepsimanEdu&show_icons=true&theme=merko&count_private=true)
+![Edu GitHub Stats](https://github-readme-stats.vercel.app/api?username=PepsimanEdu&show_icons=true&theme=merko&count_private=true)<br>
 ![Edu GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PepsimanEdu&layout=compact&lang_count=16&theme=merko)
 
 #### ☕◽[ PARADAS QUE EU MANJO: ]

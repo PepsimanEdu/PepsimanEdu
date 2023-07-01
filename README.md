@@ -1,4 +1,4 @@
-# <a href="https://www.flamengo.com.br/" target="_blank"><img align="center" alt="FLAMENGO" height="41" width="40" src="https://fla-bucket-s3-us.s3.amazonaws.com/public/arquivos/transparencia/94/158723694303.png"/></a>Opa meu nobre, eu sou Eduardo Teles 🤙
+# <a href="https://www.flamengo.com.br/" target="_blank"><img align="center" alt="FLAMENGO" height="41" width="40" src="https://fla-bucket-s3-us.s3.amazonaws.com/public/arquivos/transparencia/94/158723694303.png"/></a> Opa meu nobre, eu sou Eduardo Teles 🤙
 #### 🍣◽[ PEQUENA BIOGRAFIA: ]
 <p> Sou estudante de informática para web e amante da técnologia.<br/> Sou fã de games, artes, programação para web, edição de<br/> imagem/vídeo, cultura pop entre outras coisas.
 
